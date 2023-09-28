@@ -1,0 +1,14 @@
+.pagination {
+    text-align: center;
+  }
+  
+  .pagination-buttons {
+    display: inline-block;
+  }
+  .filter-button {
+    margin-right: 10px; 
+  }
+  
+  .clear-filter-button {
+    margin-left: 10px; 
+  }
